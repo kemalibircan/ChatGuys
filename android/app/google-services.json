@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184591160980",
+    "project_id": "chatguysrn",
+    "storage_bucket": "chatguysrn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184591160980:android:0d99fdd0010620f54cc681",
+        "android_client_info": {
+          "package_name": "com.chatguys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184591160980-gc5fsriq32u75ql2ncr7ke2b98frs22k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI4eixs1FRkBlSCId6AMrEKaGemhEdhQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184591160980-gc5fsriq32u75ql2ncr7ke2b98frs22k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
